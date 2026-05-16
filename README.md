@@ -31,13 +31,10 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=negri007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negri007&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 ---
 
 ## 📫 Contato

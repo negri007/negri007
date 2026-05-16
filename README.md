@@ -1,4 +1,4 @@
-<# Olá, eu sou Gabriel Luiz Negri 👋
+ Olá, eu sou Gabriel Luiz Negri 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**  
 📚 Atualmente no **5º termo**  

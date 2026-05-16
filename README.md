@@ -42,8 +42,7 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: SEU LINK
-- 📧 Email: SEU EMAIL
+- 📧 Email: negriTHC@gmail.com
 
 ---
 
